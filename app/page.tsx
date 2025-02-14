@@ -33,7 +33,7 @@ export default function Home() {
                         <Link  href={"https://www.tiktok.com/@ammantvofficial?lang=en"} target="_blank"><Tiktok/></Link> 
                     </div>
                 </div>
-                <h3 className="font-bold text-lg">Social Media Executive May 2022 – present</h3>
+                <h3 className="font-bold text-lg sm:text-xl">Social Media Executive May 2022 – present</h3>
                 <p className="text-xl sm:text-2xl font-bold lg:max-w-screen lg:mx-0 max-w-[600px] mx-auto [&>*]:text-primary">This role focuses on creating engaging content across Facebook, TikTok, Instagram, and YouTube to boost views and awareness of TV programs. It includes managing <span>Amman TV Kitchen</span> and <span>Good Morning Jordan</span> on social media, growing followers organically, overseeing Facebook Rights Manager, and tracking insights. Staying updated on social media trends is key to optimizing campaigns.</p>
             </article>
         <div className="flex justify-center my-5 lg:my-0">
@@ -61,8 +61,8 @@ export default function Home() {
 
         <div id="art" className="flex flex-col lg:flex-row-reverse py-4 font-medium px-6 justify-between max-w-[1200px] mx-auto w-screen">
             <article className="flex flex-col text-center lg:text-left lg:max-w-[50%] w-full [&>*]:my-2 justify-center">
-                    <h2 className="font-bold text-4xl sm:text-5xl capitalize !mb-0w">ATV Kitchen</h2>
-                <h3 className="font-bold text-xl">  Social Media Specialist & Digital Content Editor</h3>
+                    <h2 className="font-bold text-4xl sm:text-5xl capitalize !mb-0w">Arab Radio & TV</h2>
+                <h3 className="font-bold text-lg sm:text-xl">  Social Media Specialist & Digital Content Editor</h3>
                 <p className="text-xl sm:text-2xl font-bold lg:max-w-screen lg:mx-0 max-w-[600px] mx-auto [&>*]:text-primary">Tracking page growth, writing monthly reports, and publishing news articles for the ART website.
 Garnered millions of views by creating compelling, interactive captions suited for the Egyptian audience. Grew organically from <span>500K</span> followers to over <span>1M</span> in less than five months, handling ART content on Facebook Rights Manager</p>
             </article>
