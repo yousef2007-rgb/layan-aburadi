@@ -33,7 +33,7 @@ export default function Home() {
                         <Link  href={"https://www.tiktok.com/@ammantvofficial?lang=en"} target="_blank"><Tiktok/></Link> 
                     </div>
                 </div>
-                <h3 className="font-bold text-lg sm:text-xl">Social Media Executive May 2022 – present</h3>
+                <h3 className="font-bold text-lg sm:text-xl">Social Media Executive May 2022 – Aug 2025</h3>
                 <p className="text-xl sm:text-2xl font-bold lg:max-w-screen lg:mx-0 max-w-[600px] mx-auto [&>*]:text-primary">This role focuses on creating engaging content across Facebook, TikTok, Instagram, and YouTube to boost views and awareness of TV programs. It includes managing <span>Amman TV Kitchen</span> and <span>Good Morning Jordan</span> on social media, growing followers organically, overseeing Facebook Rights Manager, and tracking insights. Staying updated on social media trends is key to optimizing campaigns.</p>
             </article>
         <div className="flex justify-center my-5 lg:my-0">
